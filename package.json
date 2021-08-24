@@ -1,0 +1,24 @@
+{
+    "name": "jdbautistap",
+    "version": "1.0.0",
+    "description": "<!--\r **jdbautistap/jdbautistap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+    "main": "main.js",
+    "scripts": {
+        "start": "nodemon main.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jdbautistap/jdbautistap.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jdbautistap/jdbautistap/issues"
+    },
+    "homepage": "https://github.com/jdbautistap/jdbautistap#readme",
+    "dependencies": {
+        "axios": "^0.21.1"
+    }
+}
